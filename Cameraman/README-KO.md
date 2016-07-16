@@ -21,8 +21,8 @@ ORIGINAL : https://github.com/ChalkPE/Cameraman
 
 ## 라이선스
 ```
-Cameraman, an automatic motion control plugin for PocketMine-MP
-Copyright (C) 2015  ChalkPE
+Cameraman, an automatic motion control plugin for Nukkit
+Copyright (C) 2015  KsyMC
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
