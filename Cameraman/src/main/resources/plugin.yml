@@ -1,0 +1,23 @@
+name: Cameraman
+main: ksymc.nukkit.cameraman.Cameraman
+
+author: ChalkPE
+authors: [ChalkPE, KsyMC]
+
+version: "1.0"
+api: ["1.0.0"]
+
+description: An automatic motion control plugin for PocketMine-MP
+website: http://chalk.pe
+
+permissions:
+  cameraman.use:
+    description: "Allows a player to use all features of Cameraman"
+    default: true
+
+commands:
+  camera:
+    description: Manage your movement by Cameraman
+    permission: cameraman.use
+    usage: /camera or /cam
+    aliases: [cam, p]
