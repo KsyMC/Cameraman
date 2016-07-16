@@ -2,7 +2,7 @@ It was ported to Java.
 ORIGINAL : https://github.com/ChalkPE/Cameraman
 
 # Cameraman
-Cameraman is an automatic motion control plugin for PocketMine-MP, which allows you to create a path to automatically follow.
+Cameraman is an automatic motion control plugin for Nukkit, which allows you to create a path to automatically follow.
 
 ## Permissions
 - **cameraman.use** allows a player to use all features of Cameraman
@@ -11,7 +11,7 @@ Cameraman is an automatic motion control plugin for PocketMine-MP, which allows 
 | Command | Parameters | Description | Shortcut |
 | :-------: | :-------: | :-------: | :-------: |
 | `/cam p` | `[index]` | Adds a waypoint at the current position | `/p` |
-| `/cam start` | `<slowness>` | Travels the path in the given slowness | |
+| `/cam start` | `<slowness> [gamemode]` | Travels the path in the given slowness | |
 | `/cam stop` | | Interrupts travelling | |
 | `/cam info` | `[index]` | Shows the information of current waypoints | |
 | `/cam goto` | `<index>` | Teleports to the specified waypoint | |
